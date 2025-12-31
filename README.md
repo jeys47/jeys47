@@ -42,9 +42,16 @@
 
 ### 📊 Performance Metrics
 
-![Stats de Jeys](https://github-readme-stats.vercel.app/api?username=jeys47&show_icons=true&theme=tokyonight)
+<h3 align="center">📊 GitHub Stats</h3>
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeys47&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jy-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jy-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeys47&theme=tokyonight&hide_border=true" width="100%" />
