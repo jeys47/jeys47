@@ -9,7 +9,7 @@
 
 <p align="center">
   I build high-performance backend systems and explore the intersection of <b>Artificial Intelligence</b> and <b>Low-Level Programming</b>. 
-  Deep-diving into kernel structures, and clean architecture.
+  Deep-diving into kernel structures, and clean architecture, AI enthusiast
 </p>
 
 ---
@@ -59,7 +59,7 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Upcoming Projects
 
 * **[Mini Search Engine](https://github.com/jeys47/REPO_NAME)**
     * *Tech:* PHP, MySQL
