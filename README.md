@@ -42,18 +42,9 @@
 
 ### 📊 Performance Metrics
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=jeys47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats de Jeys" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeys47&layout=compact&theme=tokyonight&hide_border=true" alt="Langages de Jeys" />
-      </td>
-    </tr>
-  </table>
-</p>
+![Stats de Jeys](https://github-readme-stats.vercel.app/api?username=jeys47&show_icons=true&theme=tokyonight)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeys47&layout=compact&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeys47&theme=tokyonight&hide_border=true" width="100%" />
