@@ -43,25 +43,25 @@
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeys47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeys47&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeys47&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ### 🚀 Featured Engineering Projects
 
-* **[Mini Search Engine](https://github.com/YOUR_USERNAME/REPO_NAME)**
+* **[Mini Search Engine](https://github.com/jeys47/REPO_NAME)**
     * *Tech:* PHP, MySQL
     * Manual indexing system inspired by early web crawlers. Focuses on string parsing and database optimization.
-* **[Student Success Prediction](https://github.com/YOUR_USERNAME/REPO_NAME)**
+* **[Student Success Prediction](https://github.com/jeys47/REPO_NAME)**
     * *Tech:* Python, Scikit-Learn, Pandas
     * ML model utilizing CSV datasets to predict academic outcomes based on historical behavioral data.
-* **[Core Reservation API](https://github.com/YOUR_USERNAME/REPO_NAME)**
+* **[Core Reservation API](https://github.com/jeys47/REPO_NAME)**
     * *Tech:* PHP (Pure), REST, MySQL
     * High-concurrency reservation system focusing on transaction safety and clean API design.
 
@@ -70,7 +70,7 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/Yves Murhula" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
