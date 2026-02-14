@@ -61,15 +61,12 @@
 
 ### 🚀 Upcoming Projects
 
-* **[Mini Search Engine](https://github.com/jeys47/REPO_NAME)**
-    * *Tech:* PHP, MySQL
-    * Manual indexing system inspired by early web crawlers. Focuses on string parsing and database optimization.
+* **[vortish](https://github.com/jeys47/vortish)**
+    * *Tech:* C, Makefile
+    * An educational shell, for learning how it works...
 * **[Student Success Prediction](https://github.com/jeys47/REPO_NAME)**
     * *Tech:* Python, Scikit-Learn, Pandas
     * ML model utilizing CSV datasets to predict academic outcomes based on historical behavioral data.
-* **[Core Reservation API](https://github.com/jeys47/REPO_NAME)**
-    * *Tech:* PHP (Pure), REST, MySQL
-    * High-concurrency reservation system focusing on transaction safety and clean API design.
 
 ---
 
