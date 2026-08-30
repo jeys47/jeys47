@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  I build high-performance backend systems and explore the intersection of <b>Artificial Intelligence</b> and <b>Low-Level Programming</b>. 
-  Deep-diving into kernel structures, and clean architecture, AI enthusiast
+  Software Engineering student exploring the intersection of Artificial Intelligence, systems programming, and low-level computing. I enjoy building projects to better understand how software works under the hood.
 </p>
 
 ---
