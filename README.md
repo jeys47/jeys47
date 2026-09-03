@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Jeys+Murhula;Software+Engineering+Student;Backend+Developer;AI+%26+Systems+Learner;Linux+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Jeys+Murhula+Mapendo;Software+Engineering+Student;Backend+Developer;AI+%26+Systems+Learner;Linux+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -63,9 +63,9 @@
 * **[vortish](https://github.com/jeys47/vortish)**
     * *Tech:* C, Makefile
     * An educational shell, for learning how it works...
-* **[Student Success Prediction](https://github.com/jeys47/REPO_NAME)**
-    * *Tech:* Python, Scikit-Learn, Pandas
-    * ML model utilizing CSV datasets to predict academic outcomes based on historical behavioral data.
+* **[CV Classifier](https://github.com/jeys47/REPO_NAME)**
+    * *Tech:* Python, Scikit-Learn, Pandas, pytorch
+    * ...
 
 ---
 
