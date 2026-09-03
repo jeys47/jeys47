@@ -64,7 +64,7 @@
     * *Tech:* C, Makefile
     * An educational shell, for learning how it works...
 * **[CV Classifier](https://github.com/jeys47/REPO_NAME)**
-    * *Tech:* Python, Scikit-Learn, Pandas, pytorch
+    * *Tech:* Python, Scikit-Learn, Pandas, pytorch.
     * ...
 
 ---
